@@ -1,4 +1,4 @@
-# Romayne Whyte - Data Analysis Portfolio
+# Romayne Whyte - Data Engineering Portfolio
 
 ## About
 Hi, I'm Romayne! I have a technical background and hold a Master of Science (M.S.) degree in Data Engineering from Napier Endinburgh University. I have 8 years of experience in the field of software engineering. After 3 years I transition data analytics. I  am currently a Data Engineering at a Banking institution.
